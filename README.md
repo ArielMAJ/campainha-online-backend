@@ -1,6 +1,6 @@
-# FastAPI Backend Template
+# FastAPI Backend Project for Campainha Online
 
-A FastAPI backend template for a kickstart on new projects.
+A FastAPI backend project for Campainha Online.
 
 ## Features
 
