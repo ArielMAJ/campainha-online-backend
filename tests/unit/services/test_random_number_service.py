@@ -1,8 +1,9 @@
 """Unit tests for the random number service."""
 
 import pytest
-from api.schemas.random_number import RandomResponse
-from api.services.random_number_service import RandomResponseService
+
+from src.schemas.random_number import RandomResponse
+from src.services.bell_ringer_service import RandomResponseService
 
 
 @pytest.mark.parametrize(
